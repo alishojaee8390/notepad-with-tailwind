@@ -1,0 +1,57 @@
+1 - add new note
+2 - remove old note
+3 - add new note to localstrog (after 1)
+4 - edit old note from note list
+5 - edit old note from localStorage (after 4)
+6 - remove old note from localstrog (after 2)
+7 - add notes after loading page
+
+1 :
+	1 - start
+	2 - Get input
+	3 - add button of delete 
+	4 - create new list
+	5 - add button of delete to new list 
+	6 - add input of value to list 
+	7 - add note to localstrog
+	8 - show message to user
+	9 - end
+
+2: 
+	1 - start 
+	2 - Get old note 
+	3 - delete old note from list
+	4 - delete old note from localstrog
+	5 - end
+
+3 : 
+	1 - start 
+	2 - Get new note
+	3 - add new note to localstrog
+	4 - end
+
+4 : 
+	1 - start 
+	2 - get the old note
+	3 - replace eidt note on old note
+	4 - end
+
+5 :
+	1 - start 
+	2 - get the old note from localStorage
+	3 - set eidt note on old note
+	4 - end
+
+
+6 : 
+	1 - start 
+	2 - Get old note 
+	3 - delete old note from localstrog
+	4 - end	
+
+7 : 
+	1 - start 
+	2 - add new note to localstrog after load page
+	3 - end
+
+	

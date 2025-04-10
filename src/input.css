@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+
+@layer base {
+    @font-face {
+        font-family: 'sahel';
+        font-style: normal;
+        font-weight: 900;
+        src: url('../bulid/fonts/Sahel.ttf') format('truetype');
+        src: url('../bulid/fonts/Sahel.woff') format('woff');
+        src: url('../bulid/fonts/Sahel.woff2') format('woff2')
+    }
+    
+}
+
+@tailwind utilities;

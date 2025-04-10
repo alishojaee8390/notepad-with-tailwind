@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'sahel';
+    src: url('../bulid/fonts/Sahel.ttf') format('truetype');
+    src: url('../bulid/fonts/Sahel.woff') format('woff');
+    src: url('../bulid/fonts/Sahel.woff2') format('woff2')
+}
